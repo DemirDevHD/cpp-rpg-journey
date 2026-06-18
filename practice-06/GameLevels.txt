@@ -1,0 +1,27 @@
+
+Level: 1
+{
+	Scene: 1
+	{
+		EnemyCount: 1 
+	}
+	Scene: 2
+	{
+		EnemyCount: 2 
+	}
+	Scene: 3
+	{
+		EnemyCount: 2 
+	}
+}
+Level: 2
+{
+	Scene: 1
+	{
+		EnemyCount: 2 
+	}
+	Scene: 2
+	{
+		EnemyCount: 3 
+	}
+}
